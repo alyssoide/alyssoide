@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alyssoide
+- 👀 I’m interested in writing, coding, and animating
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on small projects with other students
